@@ -16,4 +16,4 @@ One sentence of horror for the [One Line, One Chill](https://make.fun/bounty/u-a
 node main.ts
 ```
 
-Writes the line to `output/entry.txt` (103 characters, one sentence, under the 200-character gate).
+Writes the line to `output/entry.txt` (101 characters, one sentence, under the 200-character gate).
